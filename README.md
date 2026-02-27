@@ -16,11 +16,11 @@ Inspired by a university assignment about consonantal alphabets (e.g., Phoenicia
 - **Tkinter** (usually included with Python)  
 
 ## Project Structure
-ConsonantalAlphabet/
-│
-├── consonantal_alphabet.py
-├── README.md
-└── img/
+ConsonantalAlphabet/  
+│  
+├── consonantal_alphabet.py  
+├── README.md  
+└── img/    
 └── gui-screenshot.png
 
 ## Installation & Usage
